@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.3",
+    "notiflix": "^3.2.6"
+  },
+  "scripts": {
+    "server": "json-server -w server/db.json -p 7775"
+  }
+}
